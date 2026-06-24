@@ -16,7 +16,7 @@
 
 ### RGB-T SOD
 
-![RGB-T SOD](rgbt.jpg)
+![RGB-T SOD](figs/rgbt.jpg)
 
 ### Video SOD
 
